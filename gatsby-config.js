@@ -18,17 +18,17 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'Ryan Wiemer',
+    title: 'Ikscode',
     description: 'Digital marketer based in Oakland, California',
     image: '/og-image.jpg',
-    siteUrl: 'https://www.ryanwiemer.com',
+    siteUrl: 'https://ikscode.github.io',
   },
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Ryan Wiemer',
-        short_name: 'Ryan Wiemer',
+        name: 'Abdullah Mertoğlu',
+        short_name: 'Ikscode',
         background_color: '#e7e6e1',
         theme_color: '#292929',
         start_url: '/',
